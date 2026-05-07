@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 streamlit 
 groq 
+=======
+streamlit>=1.18
+openai>=0.27
+streamlit
+openai
+langchain
+groq
+>>>>>>> 573487e4e4f68c5d34e0e084dcd604ba359a08e4
